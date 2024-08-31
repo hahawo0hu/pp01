@@ -27,4 +27,4 @@ aritifacts:
   files:
     - dist/shop/
     - dist/shop/assets/*
-    # -appspec.yaml
+    - appspec.yaml
